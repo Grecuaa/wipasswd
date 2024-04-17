@@ -6,8 +6,8 @@
 
 ```
 $ wipasswd
-SSID: NETGEAR99
-PASS: Tr0ub4dor&3
+SSID: NuriStreet
+PASS: 
 ```
 It does use current SSID with no arguments.
 
